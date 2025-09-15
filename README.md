@@ -61,14 +61,6 @@ salary_model.pkl – Pretrained salary prediction model
 
 training_data.txt, sales&customer.py, feedback.txt – Supporting data & scripts
 
-⚙️ Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-
-
 Create and activate a virtual environment (optional but recommended):
 
 python -m venv venv
